@@ -164,7 +164,7 @@ Key features
 
 ## Education
 
-**Bachelor of Science in Computer Engineering — Cybersecurity Major**
+**Bachelor in Computer Engineering — Cybersecurity Major**
 
 Alamein International University
 
